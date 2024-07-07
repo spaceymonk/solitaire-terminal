@@ -2,6 +2,8 @@
 
 Welcome to the Solitaire Game for Terminal! This repository contains two versions of a classic Solitaire game that you can play directly in your terminal. The first version operates via typing commands without any escape sequences, while the second version uses escape sequences for a more interactive experience.
 
+![demo.gif](./demo.gif)
+
 ## Getting Started
 
 ### Prerequisites
